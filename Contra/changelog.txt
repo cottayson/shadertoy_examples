@@ -1,0 +1,11 @@
+* Added jumping in the water to main hero.
+    (void mainImage, line 942)
+* Added variable HP To Sniper unit. [see #define DEFAULT_SNIPER_HP 5.0]
+    (void UpdateSpawner, void PlayerBulletSniperTest)
+* Added one extra powerup in beginning of level.
+    (???)
+* Modify weapon MACHINE_GUN to shooting by two bullets.
+    (void mainImage, line 1094)
+
+
+To apply this replace Buffer A with contents of file "Contra_bufA_experiment.c"
